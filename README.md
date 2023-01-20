@@ -1,4 +1,4 @@
-DailyNews is an application where you will find all the current news reated to different categories such as Science, Entertainment, Sports, Technology, Health and Business with each news publishing date, source and Author.
+DailyNews is an application where you will find all the current news related to different categories such as Science, Entertainment, Sports, Technology, Health and Business with each news publishing date, source and Author.
 
 This app is build using function-based components.
 
