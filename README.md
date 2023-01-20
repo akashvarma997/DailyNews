@@ -13,3 +13,8 @@ Packages used :
   Infinite scroll,
   react-top-loading-bar
   
+
+Demo video.
+
+https://user-images.githubusercontent.com/92669726/213644469-c31198c0-310c-44a8-99b6-d008098b7682.mp4
+
